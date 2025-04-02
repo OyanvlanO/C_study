@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\C\\learn\\test_lanovo_c\\test_11_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F56585A-E35A-4445-90DD-6D7A47569DDC}|test_11_11\\test_11_11.vcxproj|D:\\\u684C\u9762\\C\\learn\\test_lanovo_c\\test_11_11\\test_11_11\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F56585A-E35A-4445-90DD-6D7A47569DDC}|test_11_11\\test_11_11.vcxproj|solutionrelative:test_11_11\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\\u684C\u9762\\C\\learn\\test_lanovo_c\\test_11_11\\test_11_11\\test.c",
+              "RelativeDocumentMoniker": "test_11_11\\test.c",
+              "ToolTip": "D:\\\u684C\u9762\\C\\learn\\test_lanovo_c\\test_11_11\\test_11_11\\test.c",
+              "RelativeToolTip": "test_11_11\\test.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-11T01:53:59.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

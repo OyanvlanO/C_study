@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tzm.LAPTOP-71H2JDIN\\OneDrive\\\u684C\u9762\\c\\learn\\test_10_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3B9236-AE5D-40DE-9923-A82F4F25B94F}|test_10_02\\test_10_02.vcxproj|C:\\Users\\tzm.LAPTOP-71H2JDIN\\OneDrive\\\u684C\u9762\\c\\learn\\test_10_02\\test_10_02\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D3B9236-AE5D-40DE-9923-A82F4F25B94F}|test_10_02\\test_10_02.vcxproj|solutionrelative:test_10_02\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\Users\\tzm.LAPTOP-71H2JDIN\\OneDrive\\\u684C\u9762\\c\\learn\\test_10_02\\test_10_02\\test.c",
+              "RelativeDocumentMoniker": "test_10_02\\test.c",
+              "ToolTip": "C:\\Users\\tzm.LAPTOP-71H2JDIN\\OneDrive\\\u684C\u9762\\c\\learn\\test_10_02\\test_10_02\\test.c",
+              "RelativeToolTip": "test_10_02\\test.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAALQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-02T10:38:04.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
