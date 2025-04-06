@@ -11,7 +11,7 @@ void menu()
 }
 
 void game()
-{
+{ 
 	char mine[ROWS][COLS] = { 0 };   // 存放布置好的雷的信息
 	char show[ROWS][COLS] = { 0 };   // 存放排查出的雷的信息
 	// 初始化数组的内容为指定的内容
@@ -25,8 +25,11 @@ void game()
 	SetMine(mine, ROW, COL);
 
 	// 打印棋盘
-	DisplayBoard(mine, ROW, COL);
-	//DisplayBoard(show, ROW, COL);
+	//DisplayBoard(mine, ROW, COL);
+	DisplayBoard(show, ROW, COL);
+	// 排查雷
+	FindMine(mine, show, ROW, COL);
+
 }
 
 int main()
@@ -51,8 +54,15 @@ int main()
 			printf("选择错误，请重新选择\n");
 			break;
 		}
-
 	} while (input);
-
 	return 0;
 }
+
+
+// 进一步的功能
+// 1.实现标记地雷
+// 2.实现展开一片
+// 2.1 该坐标是不是雷
+// 2.2 该坐标周围没有雷
+// 2.3 该坐标没有被排查过
+
